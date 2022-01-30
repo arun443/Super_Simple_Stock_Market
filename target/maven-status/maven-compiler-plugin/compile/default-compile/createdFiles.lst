@@ -1,0 +1,17 @@
+com\jpmorgan\stocks\uk\arch\impl\SpringServiceImpl$SpringServiceHolder.class
+com\jpmorgan\stocks\uk\backend\StocksEntityManager.class
+com\jpmorgan\stocks\uk\services\StockService.class
+com\jpmorgan\stocks\uk\arch\impl\StockServicesFactoryImpl.class
+com\jpmorgan\stocks\uk\arch\impl\StockServicesFactoryImpl$1.class
+com\jpmorgan\stocks\uk\model\StockConstants.class
+com\jpmorgan\stocks\uk\arch\impl\SpringServiceImpl$1.class
+com\jpmorgan\stocks\uk\arch\utils\DatesUtil.class
+com\jpmorgan\stocks\uk\arch\SpringService.class
+com\jpmorgan\stocks\uk\backend\impl\StocksEntityManagerImpl.class
+com\jpmorgan\stocks\uk\model\Stock.class
+com\jpmorgan\stocks\uk\arch\StockServicesFactory.class
+com\jpmorgan\stocks\uk\services\impl\StockServiceImpl$StockPredicate.class
+com\jpmorgan\stocks\uk\arch\impl\StockServicesFactoryImpl$SimpleStockServicesFactoryHolder.class
+com\jpmorgan\stocks\uk\model\Trade.class
+com\jpmorgan\stocks\uk\services\impl\StockServiceImpl.class
+com\jpmorgan\stocks\uk\arch\impl\SpringServiceImpl.class
